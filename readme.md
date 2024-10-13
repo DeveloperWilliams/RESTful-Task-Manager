@@ -14,6 +14,6 @@ A RESTful API for managing tasks, designed with FastAPI. It includes CRUD functi
 3. Access API documentation at `localhost:8000/docs`.
 
 ## Technologies Used
-- `FastAPI` for API framework
+- `FastAPI` for API framework 
 - `SQLite` for database
 - `JWT` for authentication
